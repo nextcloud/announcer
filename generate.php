@@ -24,6 +24,8 @@ if (php_sapi_name() !== 'cli') {
 	exit(1);
 }
 
+date_default_timezone_set('Europe/Berlin');
+
 $content = file_get_contents(__DIR__ . '/feed.txt');
 $feeds = explode("\n", $content);
 $items = '';
