@@ -1,2 +1,1 @@
-# 1 - 2016-11-15 - https://nextcloud.com/blog/nextcloud-sponsors-and-participates-in-open-2016/ - Nextcloud Sponsors and participates in OPEN! 2016
-
+1 - 2016-11-28 - https://nextcloud.com/blog/two-reasons-why-you-should-test-nextcloud-11-beta-this-weekend/ - Two reasons why you should test Nextcloud 11 Beta this weekend!
