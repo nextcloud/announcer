@@ -1,4 +1,4 @@
 1 - 2016-11-28 - https://nextcloud.com/blog/two-reasons-why-you-should-test-nextcloud-11-beta-this-weekend/ - Two reasons why you should test Nextcloud 11 Beta this weekend!
 2 - 2016-12-10 - https://nextcloud.com/blog/win-a-t-shirt-by-testing-nextcloud-11-rc1/ - Win a t-shirt by testing Nextcloud 11 RC1!
 3 - 2019-09-02 - https://nextcloud.com/conf - Want to do more with Nextcloud? Join the Nextcloud Conference and Enterprise day in Berlin, September 14-16!
-4 - 2019-10-24 - https://nextcloud.com/blog/urgent-security-issue-in-nginx-php-fpm/ - an urgent security problem in NGINX requires you to make changes to your configuration to protect your data.
+4 - 2019-10-24 - https://nextcloud.com/blog/urgent-security-issue-in-nginx-php-fpm/ - an urgent security risk around NGINX requires you to make changes to your configuration to protect your data.
